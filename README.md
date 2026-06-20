@@ -38,7 +38,7 @@ This project simulates a simple file integrity monitoring task used in cybersecu
 ## Sample Output
 The script first creates a trusted baseline hash for the target file. It can then verify whether the file remains unchanged or detect if the file has been modified by comparing the current SHA-256 hash with the stored baseline.
 
-![File Integrity Checker Output](file-integrity-output.jpg)
+![File Integrity Checker Output](file-integrity-output.PNG)
 
 ## Ethical Note
 This project is for educational purposes only. It demonstrates basic file integrity monitoring using sample local files.
