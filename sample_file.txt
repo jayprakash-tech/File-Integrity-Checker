@@ -1,0 +1,3 @@
+This is a sample file for file integrity monitoring.
+This file will be hashed using SHA-256.
+If the content changes, the integrity checker should detect it.
